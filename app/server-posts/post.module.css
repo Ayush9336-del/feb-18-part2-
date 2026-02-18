@@ -1,0 +1,14 @@
+:root {
+  --primary-color: #2563eb;
+  --secondary-color: #059669;
+}
+
+.title {
+  color: var(--primary-color);
+  font-weight: bold;
+}
+
+.text {
+  color: var(--secondary-color);
+  font-size: 18px;
+}

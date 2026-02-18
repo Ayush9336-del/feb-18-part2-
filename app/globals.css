@@ -1,0 +1,13 @@
+/* CSS Variables */
+:root {
+  --main-font: 'Poppins', sans-serif;
+  --base-size: 16px;
+}
+
+/* apply globally */
+body {
+  font-family: var(--main-font);
+  font-size: var(--base-size);
+  margin: 0;
+  padding: 0;
+}
